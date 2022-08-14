@@ -1,4 +1,4 @@
-# QUEUE-ADT---Linked-List-Implementation
+# QUEUE-ADT---Singly-Linked-List-Implementation---Personel-Project
 This project is a personal project of mine where I have implemented the QUEUE ADT as a Linked List. It contains the common operations performed by a simple queue ADT which is enqueue, dequeue, peek, is empty, and get length. Each file contains an operation which is explained through the comments.
 
 Memory:
